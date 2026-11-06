@@ -1,37 +1,61 @@
-# Ronesh Maharjan — Portfolio
+# Ronesh Maharajan — Personal Portfolio
 
-A responsive personal portfolio built with HTML, CSS and vanilla JavaScript for GitHub Pages.
+This repository contains the source code for my personal portfolio website.
 
-## Preview locally
-Open `index.html` in a browser, or run `python -m http.server 8000` from this folder and visit `http://localhost:8000`.
+I'm a BCA student at Prime College with an interest in software development, AI, and robotics. I created this website to introduce myself, share the things I'm learning, and showcase the projects I'm working on.
 
-## Personal settings
-Edit `config.js` to update the email
- address, social profile links and education details. Only add social URLs you actually use. The contact form remains disabled until a real Formspree endpoint is configured.
+**Live Website:** [https://roneshmaharjan.com.np](https://roneshmaharjan.com.np)
 
-## Contact form
-1. Create a form at https://formspree.io/ and set its destination to your email.
-2. Verify the destination if requested.
-3. Copy the public endpoint, shaped like `https://formspree.io/f/abcdefgh`.
-4. Add it as `formspreeEndpoint` in `config.js`.
-5. Deploy and test the form. Until configured, use the direct email link.
+## About the Project
 
-Do not put passwords or private API keys in this public repository.
+I wanted a simple and professional place where people can learn more about me and explore my work.
 
-## Privacy
-The birth date is not included in public files. The optional age endpoint described in the previous version is not part of this redesign's page flow; the About section avoids publishing an age. The semester progress bar was removed because a guessed progress percentage can be misleading.
+The website includes:
 
-## Publish
-Keep the contents of this folder at the root of your GitHub Pages repository and commit to the publishing branch. The `CNAME` file is preserved for `roneshmaharjan.com.np`; keep the custom domain configured in GitHub Pages settings.
+- **About Me** — A short introduction and my interests.
+- **Skills** — Technologies and tools I'm learning and working with.
+- **Projects** — Some of the applications and experiments I've built.
+- **Education** — My academic background.
+- **Contact** — Ways to get in touch with me.
 
-## Project visuals
-The project panels are CSS-made illustrative placeholders, not screenshots of finished applications. Replace them with genuine screenshots when available.
+## Built With
 
-## Files
-- `index.html` — page structure and portfolio content
-- `styles.css` — layout, responsive styles and light/dark themes
-- `script.js` — navigation, theme, social links and contact form behavior
-- `config.js` — public personal settings
-- `CNAME` — GitHub Pages custom domain
-- `assets/favicon.svg` — site icon
-- `.nojekyll` — GitHub Pages configuration
+- HTML5
+- CSS3
+- JavaScript
+
+## Running Locally
+
+If you'd like to explore the project on your computer:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/maharjanronesh07-tech/ronesh-portfolio.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd ronesh-portfolio
+   ```
+
+3. Open `index.html` in your browser.
+
+You can also use the Live Server extension in VS Code for local development.
+
+## Deployment
+
+The website is hosted using GitHub Pages and connected to my custom domain.
+
+Any updates pushed to the `main` branch can be deployed through GitHub Pages.
+
+## Connect With Me
+
+- **Portfolio:** [roneshmaharjan.com.np](https://roneshmaharjan.com.np)
+- **GitHub:** [@maharjanronesh07-tech](https://github.com/maharjanronesh07-tech)
+- **Email:** [maharjanronesh7@gmail.com](mailto:maharjanronesh7@gmail.com)
+
+---
+
+I'm still learning, building, and improving. This portfolio will continue to change as I gain experience and work on new projects.
