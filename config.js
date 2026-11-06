@@ -3,7 +3,7 @@
  * private API keys, or secrets in this file.
  */
 window.PORTFOLIO_CONFIG = {
-  name: "Ronesh Maharajan",
+  name: "Ronesh Maharjan",
   email: "maharjanronesh7@gmail.com",
   location: "Nepal",
   socialLinks: {
