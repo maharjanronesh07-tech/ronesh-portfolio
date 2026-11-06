@@ -1,4 +1,4 @@
-# Ronesh Maharajan — Portfolio
+# Ronesh Maharjan — Portfolio
 
 A responsive personal portfolio built with HTML, CSS and vanilla JavaScript for GitHub Pages.
 
@@ -6,7 +6,8 @@ A responsive personal portfolio built with HTML, CSS and vanilla JavaScript for 
 Open `index.html` in a browser, or run `python -m http.server 8000` from this folder and visit `http://localhost:8000`.
 
 ## Personal settings
-Edit `config.js` to update the email address, social profile links and education details. Only add social URLs you actually use. The contact form remains disabled until a real Formspree endpoint is configured.
+Edit `config.js` to update the email
+ address, social profile links and education details. Only add social URLs you actually use. The contact form remains disabled until a real Formspree endpoint is configured.
 
 ## Contact form
 1. Create a form at https://formspree.io/ and set its destination to your email.
